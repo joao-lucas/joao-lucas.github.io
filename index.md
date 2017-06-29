@@ -1,41 +1,26 @@
-# João Lucas é o rei das cocota
-Testando essa nova parada, altas ideias
+# SOU DESSA TERRA, SOU TRABALHADOR
+Nasci em Primeiro de Maio, vivo aqui há 53 anos. Minha esposa também é daqui, meus filhos nasceram aqui. Trabalhei na roça, fui açougueiro, fui coordenador de serviço por 14 anos na prefeitura e há mais de 10 anos sou eletricista.
+
+Conheço bem essa cidade: a zona rural, os bairros a área mais central. Vou trabalhar muito por Primeiro de Maio.
 
 
-## Welcome to GitHub Pages
+# CAMPANHA SIMPLES, SEM DINHEIRO
+Minha campanha é limpa, na conversa franca, no contato direto com a população. Não tenho dinheiro para gastar na eleição. Meu patrimônio é minha honra, minha honestidade.
 
-You can use the [editor on GitHub](https://github.com/joao-lucas/joao-lucas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Não faço acertos políticos, não quero financiamento para campanha. Porque não quero ter de retribuir favores nem compromissos financeiros como prefeito.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fui eleito vereador no ano passado com o apoio de quem acredita na minha sinceridade e na minha vontade de fazer mais por Primeiro de Maio. E assim quero administrar a minha cidade.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# APOIO DE GENTE SÉRIA
+“Como deputado estadual, vou colaborar bastante com o Ligeirinho porque acredito na capacidade, na dedicação e no amor dele por Primeiro de Maio. Certamente será um bom prefeito.
 
-```markdown
-Syntax highlighted code block
+Como médico do HU de Londrina, por mais de 30 anos, tenho experiência para contribuir na área de saúde, melhorando o atendimento a quem mais precisa.
 
-# Header 1
-## Header 2
-### Header 3
+Também vou ajudar o Ligeirinho a instalar um posto do Corpo de Bombeiros às margens da represa, para dar mais segurança aos moradores daqui e aos turistas.
 
-- Bulleted
-- List
+Estou com Ligeirinho para prefeito e peço o seu voto e de sua família. Primeiro de Maio vai ficar melhor!” – Tercilio Turini
+ 
+VOTE LIGEIRINHO – 23 – PPS
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joao-lucas/joao-lucas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#ElizeuTrabalhador #Honestidade #Transparência #Humildade #Seriedade #Vote23
